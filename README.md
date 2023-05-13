@@ -30,7 +30,8 @@ It is important to highlight main KPIs from BPO suggested, these are:
 * Coaching completion for Agents
 * Service level %
 * Channels : Voice, Chat & Email
-* Targets: * Coaching 100%
+* Targets: 
+         * Coaching 100%
 
           * Service Level 85%
 
