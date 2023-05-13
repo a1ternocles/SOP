@@ -31,11 +31,10 @@ It is important to highlight main KPIs from BPO suggested, these are:
 * Service level %
 * Channels : Voice, Chat & Email
 * Targets: 
-         * Coaching 100%
 
           * Service Level 85%
-
           * CSAT 85%
+          * Coaching 100%
   
   An Squema for a DATA WAREHOUSE was attached to this file.
 
