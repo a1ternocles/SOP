@@ -50,7 +50,8 @@ It is important to highlight main KPIs from BPO suggested, these are:
 * import pandas as pd
 * import mysql.connector as sql
 * import sqlalchemy as sa
-* from sqlalchemy import create_engine
+
+          from sqlalchemy import create_engine
 
 It is necessary to install these libraries by doing following:
 
