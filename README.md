@@ -69,7 +69,7 @@ Into py terminal, type:
 
   OPS Dashboard Suite: https://lookerstudio.google.com/reporting/4a5eaaa1-d6de-40b4-bbeb-45a915e161b8
 
-  Executive Dashboard Suite: 'Pending due server maintanence'
+  Executive Dashboard Suite: https://public.tableau.com/views/EXECUTIVESuite1/PerformanceperQ?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Documentation
 Some written sources were used in order to complete taskes:
