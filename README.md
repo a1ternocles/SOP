@@ -1,7 +1,5 @@
 # SOP
 
-This assesment was done with the objective to complete the 'Data Engineer and Reporting Supervisor, Project'. 
-
 On it, exercise was about to complete 6 taskes in order to create a professional Data Base using tools like 'Python',
 'SQL' & 'Google APIs'. And completing the data base product using tools as 'Looker Data Studio' & 'Tableau' to give full body
 for the analytics of a BPO.  
